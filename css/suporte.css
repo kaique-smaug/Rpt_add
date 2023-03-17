@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+    border: solid 1px black;
+    background: #fff;
+    width: 1500px;
+    height: 600px;
+    margin: 100px auto;
+
+}
+.centralizadinho{
+    text-align: center;
+}

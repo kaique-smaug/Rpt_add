@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main {
+    border: solid 1px black;
+    background: #fff;
+    width: 800px;
+    height: 600px;
+    margin: 100px auto;
+
+}
+.content-image{
+    display: flex;
+    position: absolute;
+    top: 400px;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+}
+.content-image img{
+    width: 200px;
+    
+}
+.image2 img{
+    width: 200px;
+    height: 200px;
+}

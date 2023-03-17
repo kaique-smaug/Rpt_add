@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "primeiro projeto",
+			"path": "../../../../Users/Kaique/OneDrive/Área de Trabalho/Projeto Udemy/front end/primeiro projeto"
+		},
+		{
+			"name": "htdocs",
+			"path": "../.."
+		},
+		{
+			"name": "app_help_desk",
+			"path": "../../app_help_desk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "primeiro projeto"
+	}
+}
